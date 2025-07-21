@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
-<h3 align="center"> Data Science & AI Enthusiast | Machine Learning | Python | R | C++ | Tableau | Power BI | Business & Tech Innovation |</h3>
+<h3 align="center"> Data Science & AI Enthusiast | Machine Learning | Python | Java | C++ | Tableau | Power BI | Business & Tech Innovation |</h3>
 
 ---
 
