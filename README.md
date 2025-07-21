@@ -42,7 +42,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ayushp05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushp05" height="30" width="40" /></a>
 <a href="https://instagram.com/whoisayushp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whoisayushp" height="30" width="40" /></a>
-[![Gmail](https://img.shields.io/badge/info.ayushp@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info.ayushp@gmail.com)
+
 
 </p>
 
