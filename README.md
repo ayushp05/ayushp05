@@ -26,7 +26,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=flat-square&logo=linux&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat-square&logo=oracle&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-%23FFCA28.svg?style=flat-square&logo=apachehadoop&logoColor=black)
 
