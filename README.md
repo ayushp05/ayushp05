@@ -5,6 +5,22 @@
 
 - 📫 How to reach me **info.ayushp@gmail.com**
 
+## 📈 LeetCode Stats
+
+> Live overview of my LeetCode activity and problem-solving progress.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ayushp5?theme=dark&font=baloo&ext=activity)
+
+---
+
+
+## 📊 GitHub Contribution Graph
+
+![Harsh's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ayushp05&theme=tokyonight&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushp05&theme=tokyo-night&hide_border=true)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayushp05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushp05" height="30" width="40" /></a>
