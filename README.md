@@ -49,7 +49,7 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushp5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushp05/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ayushp05)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info.ayushp@gmail.com)
 
