@@ -7,7 +7,7 @@
 
 - 🎓 B.Tech in Computer Science, LPU (2022–2026)
 - 🌱 Currently diving deep into **Data Science**, **Machine Learning**, and **Big Data**
-- 💬 Ask me about **C++**, **Python**, **SQL**, **Data Structures & Algorithms**, **Tableau**, **Excel**, **Hadoop**, **Node.js**
+- 💬 Ask me about **C++**, **Python**, **SQL**, **Data Structures & Algorithms**, **Tableau**, **Excel**, **Hadoop**.
 - 👨‍💻 Always up for hackathons, collabs, and building impact-driven tools
 - 🧠 Passionate about AI, LLMs, and how data powers intelligent systems
 
